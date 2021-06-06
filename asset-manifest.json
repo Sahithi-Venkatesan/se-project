@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/se-project/static/css/main.2f0586bb.chunk.css",
-    "main.js": "/se-project/static/js/main.8233e263.chunk.js",
-    "main.js.map": "/se-project/static/js/main.8233e263.chunk.js.map",
-    "runtime-main.js": "/se-project/static/js/runtime-main.9e71fb97.js",
-    "runtime-main.js.map": "/se-project/static/js/runtime-main.9e71fb97.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/se-project/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.0df37a30.chunk.js": "/se-project/static/js/2.0df37a30.chunk.js",
-    "static/js/2.0df37a30.chunk.js.map": "/se-project/static/js/2.0df37a30.chunk.js.map",
-    "static/js/3.71772d13.chunk.js": "/se-project/static/js/3.71772d13.chunk.js",
-    "static/js/3.71772d13.chunk.js.map": "/se-project/static/js/3.71772d13.chunk.js.map",
-    "index.html": "/se-project/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/se-project/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.2f0586bb.chunk.css.map": "/se-project/static/css/main.2f0586bb.chunk.css.map",
-    "static/js/2.0df37a30.chunk.js.LICENSE.txt": "/se-project/static/js/2.0df37a30.chunk.js.LICENSE.txt"
+    "main.css": "/tiempo-grooves/static/css/main.ecd6c5cb.chunk.css",
+    "main.js": "/tiempo-grooves/static/js/main.55fb9ccb.chunk.js",
+    "main.js.map": "/tiempo-grooves/static/js/main.55fb9ccb.chunk.js.map",
+    "runtime-main.js": "/tiempo-grooves/static/js/runtime-main.4103ff1b.js",
+    "runtime-main.js.map": "/tiempo-grooves/static/js/runtime-main.4103ff1b.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/tiempo-grooves/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0df37a30.chunk.js": "/tiempo-grooves/static/js/2.0df37a30.chunk.js",
+    "static/js/2.0df37a30.chunk.js.map": "/tiempo-grooves/static/js/2.0df37a30.chunk.js.map",
+    "static/js/3.71772d13.chunk.js": "/tiempo-grooves/static/js/3.71772d13.chunk.js",
+    "static/js/3.71772d13.chunk.js.map": "/tiempo-grooves/static/js/3.71772d13.chunk.js.map",
+    "index.html": "/tiempo-grooves/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/tiempo-grooves/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.ecd6c5cb.chunk.css.map": "/tiempo-grooves/static/css/main.ecd6c5cb.chunk.css.map",
+    "static/js/2.0df37a30.chunk.js.LICENSE.txt": "/tiempo-grooves/static/js/2.0df37a30.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e71fb97.js",
+    "static/js/runtime-main.4103ff1b.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.0df37a30.chunk.js",
-    "static/css/main.2f0586bb.chunk.css",
-    "static/js/main.8233e263.chunk.js"
+    "static/css/main.ecd6c5cb.chunk.css",
+    "static/js/main.55fb9ccb.chunk.js"
   ]
 }
